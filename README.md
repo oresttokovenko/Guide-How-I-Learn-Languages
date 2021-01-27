@@ -57,10 +57,11 @@ Buy with a grammar book/text book<sup>9</sup> in your target language and go thr
 Find some music, movies, tv shows, YouTubers that you like and podcasts to listen to, it will help you get the rhythm of the language and your brain needs to familiarize itself with the morphemes and phonemes. You don't need to understand anything at the beginning, just hearing the language is important. Don’t be afraid to sing along or repeat what you hear. Once you understand more, these resources will be a fantastic resources to learn more about the cultural and countries associated with your target language, which will encourage motivation to study.
 
 ## **Notetaking:** 
-Purchase two notebooks. One large and one small<sup>11 12</sup>. Take the small notebook <sup>2 3</sup> and write down everything from every conversation you have that you don't know and any questions so you can ask a native speaker at a later time and transfer the words/phrases/answers to your large notebook to keep it neat. This will be your routine for notetaking: hasitly writing words you hear into the small notebook, then when you have time, transfer them with examples to the large one, into the appropriate section. Take the large notebook<sup>1</sup> and divide it equally into 4 parts with the following sections: Vocabulary, Verbs, Phrases, and Grammar<sup>4 5 6</sup>. Subsections can include numbers, slang, etc. For example, if your notebook has 80 pages, allot 19 for each main section and the last 4 for slang. Writing things down is a great way to memorize things, so write everything you think is essential to the language in this large notebook. Avoid obscure or archaic words and phrases and this will slow your progress down and you will be unlikely to actually use them. Under the Vocabulary section in your notebook, be sure to add examples to each definition so that you can understand the context in which the words are used(e.g. ReversoContexto) . For languages with logographic writing systems, buy a second large notebook with grid pattern pages, which you can use to practise writing the characters. When you don’t have an opportunity to write in your notebook, use a notes app<sup>7 8</sup>. I use a colour and symbol system for the small notebook for the inital vetting<sup>10</sup>, feel free to copy it.
+Purchase two notebooks, one large and one small<sup>11 12</sup>. Take the small notebook and write down everything(words, phrases, etc.) from every conversation, movie or article that you don't know and any questions so you can ask a native speaker at a later time. Once you have the answer, from referencing a dictionary or asking a native speaker, you will transfer the words/phrases/answers to your large notebook to keep it neat. This will be your routine for notetaking: hasitly writing words you hear/see into the small notebook, then when you have time, transfer them with examples to the large one, into the appropriate section. Take the large notebook and divide it equally into 4 parts with the following sections: Vocabulary, Verbs, Phrases, and Grammar<sup>2 3 4 5</sup>. Subsections can include numbers, slang, etc. For example, if your notebook has 80 pages, allot 19 for each main section and the last 4 for slang. Writing things down is a great way to memorize things, so write everything you think is essential to the language in this large notebook. Avoid obscure or archaic words and phrases and this will slow your progress down and you will be unlikely to actually use them. Under the Vocabulary section in your notebook, be sure to add examples to each definition so that you can understand the context in which the words are used(e.g. ReversoContexto). For languages with logographic writing systems, buy a second large notebook with grid pattern pages, which you can use to practise writing the characters. When you don’t have an opportunity to write in your notebook(you're out of your home), use a notes app<sup>7 8</sup> to record words like a digital 'small notebook'. You can also add labels for words I use a colour and symbol system for the small notebook for the inital vetting<sup>1</sup>, feel free to copy it.
 
 - **red exclamation mark**: I don't know the meaning, but I believe I can find it in a dictionary/reference
-- **blue question mark**: I don't know the meaning, and I don't believe I can find it in a dictionary/reference. I need to ask a native speaker. 
+- **blue question mark**: I don't know the meaning, and I don't believe I can find it in a dictionary/reference. I need to ask a native speaker.
+- **blue words in parentheses**: extra things to ask a native speaker(e.g correct pronunciation, or whether a word is acually used colloquially' 
 - **orange asterisk**: I'm not sure if spelled correctly (for languages with different scripts/alphabets)
 - **green checkmark**: this word has been defined and recorded in the large notebook
 - **green notes**: I wrote down a native speaker's definition for a blue question mark words
@@ -104,29 +105,35 @@ Everyone is different, and this guide might or might not work for you, the impor
 
 ## **References**
 
-#### Ref. 1
+#### Ref. 1: Small Notebook entries
 
 ￼![IMG_8399](https://user-images.githubusercontent.com/51058259/106043478-b94d9980-609b-11eb-8ba6-0d24411dae2f.jpeg)
 
-#### Ref. 2
+
+#### Ref. 2: Vocabulary section
 ￼
 ![IMG_8400](https://user-images.githubusercontent.com/51058259/106043489-bce12080-609b-11eb-8772-435ca76caebc.jpeg)
+![IMG_8402](https://user-images.githubusercontent.com/51058259/106043498-bf437a80-609b-11eb-8c48-78bf1d73d0d2.jpeg)
 
-#### Ref. 3
+
+#### Ref. 3: Phrases and Expressions section
 
 ![IMG_8401](https://user-images.githubusercontent.com/51058259/106043494-beaae400-609b-11eb-9f83-a8258db8a476.jpeg)
 
+
 #### Ref. 4
 
-![IMG_8402](https://user-images.githubusercontent.com/51058259/106043498-bf437a80-609b-11eb-8c48-78bf1d73d0d2.jpeg)
 
-#### Ref. 5
+
+#### Ref. 5: Grammar section
 ￼
 ![IMG_8403](https://user-images.githubusercontent.com/51058259/106043502-c074a780-609b-11eb-90a5-4321a24af1bd.jpeg)
+![IMG_8404](https://user-images.githubusercontent.com/51058259/106043511-c2d70180-609b-11eb-9007-a0ba77164198.jpeg)
+
 
 #### Ref. 6
 
-![IMG_8404](https://user-images.githubusercontent.com/51058259/106043511-c2d70180-609b-11eb-9007-a0ba77164198.jpeg)
+
 
 #### Ref. 7
 
