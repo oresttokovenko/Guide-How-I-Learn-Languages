@@ -45,13 +45,13 @@ Even if you don’t know a single word of your target language, immersion in the
 Speaking with native speakers is the single most effective way to learn a language. If nothing else, do this. Find a language partner within a week of starting or as soon as you can have a very basic conversation. Make a Conversation Exchange account, and use this website to either meet someone face to face or online. You may go through a few people before you find someone you click with. If you’re lucky enough to live close to native speakers, meeting up with them is the best option, but if not, speak with them through an instant messaging app and video chat. Utilize audio messages when speaking using an Instant Messaging app for a more natural conversation. Furthermore, outline your language goals to your partner as soon as possible so they can adjust their speech to cater to you. For example, if you want to learn a language for business purposes, you may want to avoid colloquialisms and slang, while emphasizing correct pronunciation. However, if you want to learn a language for pleasure or travel, you may want to assure your language partner to speak as if they were speaking to a peer in their own language, so that you can sound more like a native speaker . At the beginning you can expect the spoken language ratio to be ‘95% Your language:5% Target language’. Your goal is 50%:50%. If long distance, you should speak with your partner daily on instant messaging apps and video chat them once a week for an hour. Meeting people on Conversation Exchange can lead to great friendships and can be a wonderful reason to visit the country where your target language is spoken. If you can't find native speakers in your area, try going to Language Exchange events, you might find them there.
 
 ## **Language Books:** 
-Buy with a grammar book/text book<sup>9 10</sup> in your target language and go through a few lessons every day. Target goals on the cover such as “for beginners” and “A2/B1/B2 CEFR” are good to look for. As a general rule, you should not focus on grammar(explained in point 6), however some is necessary, best in small amounts. You will find that you naturally acquire grammar as you learn a language(if done correctly), which is the best way since you don’t think about it, you just begin to speak that way and notice it feels right. You should be done the textbook in 2-3 months after which you should read it one more time (I recommend the "Assimil" or 'Teach Yourself" series). Supplement the textbook with online lessons for grammar points that you find yourself weak in. Avoid advanced grammar textbooks until you feel you can already speak comfortably and are plateauing despite being a higher level. **Note:** Language textbooks are notorious for having outdated expressions and slang, so be sure to run them by your language partner if you get a chance. Here is an example I found on Youtube: 'I am a native Swede. If you study Swedish, one of the first things you will learn is probably the common greeting "god dag", meaning good day. Thing is though, almost NOBODY says this, aside from newscasters - a simple "hej" is what people normally use to greet each other. Yet textbooks continue to teach this, and any Swede will probably teach it to you if you ask them - even though they wouldn't use it themselves! It's a funny thing'
+Buy with a grammar book/text book<sup>9</sup> in your target language and go through a few lessons every day. Target goals on the cover such as “for beginners” and “A2/B1/B2 CEFR” are good to look for. As a general rule, you should not focus on grammar(explained in point 6), however some is necessary, best in small amounts. You will find that you naturally acquire grammar as you learn a language(if done correctly), which is the best way since you don’t think about it, you just begin to speak that way and notice it feels right. You should be done the textbook in 2-3 months after which you should read it one more time (I recommend the "Assimil" or 'Teach Yourself" series). Supplement the textbook with online lessons for grammar points that you find yourself weak in. Avoid advanced grammar textbooks until you feel you can already speak comfortably and are plateauing despite being a higher level. **Note:** Language textbooks are notorious for having outdated expressions and slang, so be sure to run them by your language partner if you get a chance. Here is an example I found on Youtube: 'I am a native Swede. If you study Swedish, one of the first things you will learn is probably the common greeting "god dag", meaning good day. Thing is though, almost NOBODY says this, aside from newscasters - a simple "hej" is what people normally use to greet each other. Yet textbooks continue to teach this, and any Swede will probably teach it to you if you ask them - even though they wouldn't use it themselves! It's a funny thing'
 
 ## **Input through Media:** 
 Find some music, movies, tv shows, YouTubers that you like and podcasts to listen to, it will help you get the rhythm of the language and your brain needs to familiarize itself with the morphemes and phonemes. You don't need to understand anything at the beginning, just hearing the language is important. Don’t be afraid to sing along or repeat what you hear. Once you understand more, these resources will be a fantastic resources to learn more about the cultural and countries associated with your target language, which will encourage motivation to study.
 
 ## **Notetaking:** 
-Purchase two notebooks. One large and one small. Take the large notebook (Ref. 1) and divide it equally into 4 parts with the following sections: Vocabulary, Verbs, Phrases, and Grammar<sup>4 5 6</sup>. Subsections can include numbers, slang, etc. For example, if your notebook has 80 pages, allot 19 for each main section and the last 4 for slang. Writing this down is a great way to memorize things, so write everything you think is essential to the language in this large notebook. Avoid obscure or archaic words and phrases and this will slow your progress down and you will be unlikely to actually use them. Under the Vocabulary section in your notebook, be sure to add examples to each definition so that you can understand the context in which the words are used(e.g. ReversoContexto) Take the small notebook <sup>2 3</sup>) and write down everything from every conversation you have that you don't know and any questions so you can ask a native speaker at a later time and transfer the words/phrases/answers to your large notebook to keep it neat. For languages with logographic writing systems, buy a second large notebook with grid pattern pages, which you can use to practise writing the characters. When you don’t have an opportunity to write in your notebook, use a notes app<sup>7 8</sup>
+Purchase two notebooks. One large and one small. Take the large notebook<sup>1</sup> and divide it equally into 4 parts with the following sections: Vocabulary, Verbs, Phrases, and Grammar<sup>4 5 6</sup>. Subsections can include numbers, slang, etc. For example, if your notebook has 80 pages, allot 19 for each main section and the last 4 for slang. Writing this down is a great way to memorize things, so write everything you think is essential to the language in this large notebook. Avoid obscure or archaic words and phrases and this will slow your progress down and you will be unlikely to actually use them. Under the Vocabulary section in your notebook, be sure to add examples to each definition so that you can understand the context in which the words are used(e.g. ReversoContexto) Take the small notebook <sup>2 3</sup>) and write down everything from every conversation you have that you don't know and any questions so you can ask a native speaker at a later time and transfer the words/phrases/answers to your large notebook to keep it neat. For languages with logographic writing systems, buy a second large notebook with grid pattern pages, which you can use to practise writing the characters. When you don’t have an opportunity to write in your notebook, use a notes app<sup>7 8</sup>
 
 ## **Studying Regimen:** 
 The rule of thumb is as follows; *Active Studying 20% - Passive Studying 80%*. If you feel you’ve reached a plateau (lack of progress for a long duration of time), focus more on active studying; although not as fun, it might give you the knowledge necessary to push your understanding of the target language ahead. The chart below will help you understand how to differentiate between active and passive studying. Your brain loves looking for patterns, so you need to flood it with input, or, all of this music, conversations, lessons and repetition! That’s the key. In addition, there has been a [study](https://pubmed.ncbi.nlm.nih.gov/22470434/) that has shown that after a period of intense study, taking time off from learning a language may actually benefit you. 
@@ -77,7 +77,7 @@ Training intonation patterns is one way. Pitch changes are a key part of human c
 Language learning should be a positive, pleasurable experience! If it isn’t, you need to review your method or motivation.
 
 ## **More Information:** 
-The following is a list of reliable and vetted language learners who give solid advice. Watch their videos if you're looking for more.
+The following is a list of reliable and vetted language learners who give solid advice. Watch their videos if you're looking for more. Be warned, there are many polyglots who claim to speak many languages but in fact carefully direct conversations into the set phrases that they memorized, or just ignore questions asked of them and change the topic to something they are comfortable with. Don't be discouraged by people who claim to have learned a language in a month of a week, it's likely fraudulent. 
 
 | **Polyglot**        | **Link**           |
 | ------------- |:-------------:| 
@@ -99,16 +99,30 @@ Ref. 1
 Ref. 2
 ￼
 Ref. 3
+
+Ref. 4
+
+Ref. 5
 ￼
+Ref. 6
+
 Ref. 7
-￼
+
+<img src="https://user-images.githubusercontent.com/51058259/106032045-31609300-608d-11eb-92cf-bf8fc5c7461d.PNG" width="350" height="700">
+
 Ref. 8
-￼
+
+<img src="https://user-images.githubusercontent.com/51058259/106032049-345b8380-608d-11eb-900f-6b22dfb0a65e.PNG" width="350" height="700">
+
 Ref. 9
 
-Assimil Book
+![arabic jpg](https://user-images.githubusercontent.com/51058259/106032833-34a84e80-608e-11eb-92c9-318d500684d6.png)
 
-Ref. 10
+![l-arabe jpg](https://user-images.githubusercontent.com/51058259/106032909-50abf000-608e-11eb-8d04-e58102c9fa6c.png)
 
-Teach Yourself Book
+<img src="https://user-images.githubusercontent.com/51058259/106033267-cfa12880-608e-11eb-8f20-c23fcd514e52.jpg" width="400" height="600">
+
+<img width="505" alt="Screen Shot 2021-01-27 at 11 04 55 AM" src="https://user-images.githubusercontent.com/51058259/106033916-7eddff80-608f-11eb-94d0-4e5bed1a03c3.png">
+
+
 
