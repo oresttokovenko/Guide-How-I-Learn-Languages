@@ -26,8 +26,12 @@ If any of these don’t support your target language (i.g. Wordreference doesn�
 
  ^Note: there is a chrome extension called ‘Netflix Multi. Subtitles’ that will allow two sets of subtitles in different languages simultaneously 
 
-## **How to avoid the Foreigner Speak Trap:** 
+## **Some key things to know before starting. Watch these videos:** 
 [This video](https://www.youtube.com/watch?v=dhFqV2P9Mo0) is very important to understand so that you don’t learn a watered down version of a language. 
+
+[This video](https://www.youtube.com/watch?v=SDLlhUv519k) will give you some general tips on learning language
+
+[This video](https://www.youtube.com/watch?v=XDfUzIAyzRw) will help you understand how to aquire vocabulary
 
 ## **Why is it possible for people to understand a language but not speak it?:** 
 "Listening/hearing is a passive skill, but speaking is an active skill. A passive skill is something you are able to do without any real effort. This can include reading and learning, or listening to a language. All you do is collect the information. An active skill is something you physically have to do, which requires a bit more effort. Instead of reading a book, you have to write a book, or write a speech about what you read. Talking is an active skill. It requires thought to mouth co-ordination. Some foreign languages require sounds not pronounced in your mother language. You know what the sound sounds like, but it could be too difficult to maneuver your mouth and tongue to pronounce it. When you listen, the correct syntax and form is given to you. When you talk, you have to think of the syntax and put it into practice. In other words, when you listen, the other person does the thinking for you, but when you talk, you have to do the thinking.I dare say that confidence also plays a role. Some people know a language, but are a bit too timid to speak it because they are afraid of sounding stupid. In that case, they avoid talking, or claim that they cannot. However, they do have a fair grasp of the language, so they understand it okay. If a person who thinks they can't talk is forced to do so, then they usually adapt and end up talking without too much issue” - u/deep_sea2 from Reddit.
