@@ -82,7 +82,7 @@ The rule of thumb is as follows; *Active Studying 20% - Passive Studying 80%*. I
 Study at least a little every day. Even having a conversation on WhatsApp counts (as passive learning)
 
 ## **Memorization:**
-The Anki Flashcard Program is a very effective program for your computer and phone. Install it on your computer(my preferred method) and watch YouTube videos to understand how to use it. It can be challenging at first but it’s a very powerful tool to learn a language efficiently. It is simply speaking a great way to memorize. Other than this program, don’t use any other memorization techniques other than writing in your notebooks. This method is particularly effective for logographic languages. As an additional tip, add ‘add-ons’ to make the program more enjoyable. 
+The Anki Flashcard Program<sup>6</sup> is a very effective program for your computer and phone. Install it on your computer(my preferred method) and watch YouTube videos to understand how to use it. It can be challenging at first but it’s a very powerful tool to learn a language efficiently. It is simply speaking a great way to memorize. Other than this program, don’t use any other memorization techniques other than writing in your notebooks. This method is particularly effective for logographic languages. As an additional tip, add ‘add-ons’ to make the program more enjoyable. 
 
 ## **How to sound like a Native Speaker:**
 Training intonation patterns is one way. Pitch changes are a key part of human communication. In many languages, they can distinguish a question from a statement, a happy statement from an angry one, and the speech of a native from the speech of a foreigner. Intonation plays a wide variety of subtle-but-important roles in every language spoken on the planet today, so practising this is key to sounding good in your target language. You can do this by listening to native speakers speak and imitating then or listening to an audio and marking up and accompanying text with variations in tone (e.g. October 31 🔺// is a night for fun and fright 🔻. Children of all ages🔺// dress up in costumes. There are little girls 🔺// who dress up as fairies🔺//, princesses🔺//, ballerinas🔺 //and the li-🔻ke.)
@@ -114,6 +114,8 @@ Everyone is different, and this guide might or might not work for you, the impor
 ￼
 ![IMG_8400](https://user-images.githubusercontent.com/51058259/106043489-bce12080-609b-11eb-8772-435ca76caebc.jpeg)
 ![IMG_8402](https://user-images.githubusercontent.com/51058259/106043498-bf437a80-609b-11eb-8c48-78bf1d73d0d2.jpeg)
+![IMG_8406](https://user-images.githubusercontent.com/51058259/106048867-a5596600-60a2-11eb-9867-d01b839b54dc.jpeg)
+![IMG_8408](https://user-images.githubusercontent.com/51058259/106048883-aab6b080-60a2-11eb-8bda-749033be6675.jpeg)
 
 
 #### Ref. 3: Phrases and Expressions section
@@ -121,19 +123,21 @@ Everyone is different, and this guide might or might not work for you, the impor
 ![IMG_8401](https://user-images.githubusercontent.com/51058259/106043494-beaae400-609b-11eb-9f83-a8258db8a476.jpeg)
 
 
-#### Ref. 4
+#### Ref. 4 Verbs section
 
-
+![IMG_8407](https://user-images.githubusercontent.com/51058259/106048879-a8eced00-60a2-11eb-88be-05dc662feedb.jpeg)
 
 #### Ref. 5: Grammar section
 ￼
 ![IMG_8403](https://user-images.githubusercontent.com/51058259/106043502-c074a780-609b-11eb-90a5-4321a24af1bd.jpeg)
 ![IMG_8404](https://user-images.githubusercontent.com/51058259/106043511-c2d70180-609b-11eb-9007-a0ba77164198.jpeg)
+![IMG_8409](https://user-images.githubusercontent.com/51058259/106048718-780cb800-60a2-11eb-93c8-6925963be08f.jpeg)
 
 
 #### Ref. 6
 
-
+<img width="663" alt="Screen Shot 2021-01-27 at 1 34 19 PM" src="https://user-images.githubusercontent.com/51058259/106050440-6d532280-60a4-11eb-94c6-92525bed48ea.png">
+<img width="660" alt="Screen Shot 2021-01-27 at 1 34 35 PM" src="https://user-images.githubusercontent.com/51058259/106050445-6f1ce600-60a4-11eb-92ff-0755f3866827.png">
 
 #### Ref. 7
 
