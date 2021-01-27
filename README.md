@@ -1,26 +1,29 @@
 # How I Learn Languages
-Many people ask me how I learned my languages, so I decided to codify it here
+Many people ask me how I learned my languages, so I decided to codify it here. Many people learn languages for different reasons and thus their methods may vary. When I learn a language, my goal is to sound **native-like(slang, expressions), speak with fluency(aka. no stuttering, I am for a B2 level), and with natural pronuncation from one target dialect group(ex. I speak 'Andean' Spanish, and Brazilian Portuguese from Minas Gerais/Bahia)** . As a result, my method reflects these goals. There is nothing wrong with having different language goals, however keep this in mind when reading my guide. 
 
 
 1. Bookmark and use the following websites: If any of these don’t support your target language (i.g. Wordreference doesn’t translate English > Indonesian, or Netflix doesn’t have Swahili movies) another website can used, the websites below are simply reliable and effective websites that I personally use, it’s the purposes that need to be filled in order to effectively learn a language. 
 
-Website/Program/App	Purpose 
-ReversoContexto (Very important)	Context for Vocabulary 
-Wordreference (Or any of your choosing) 	Online Dictionary 
-Cooljugator (Or any of your choosing)	Verb Conjugation 
-Google Translate	General Translation 
-Conversation Exchange 	Language Partners
-Meetup	Local language exchange events
-Whatsapp(varies by target language)	Communication with people around the world
-YouTube 	Watch videos in the target language
-Netflix 	Watch movies and tv shows in the target language with Subtitles. Note: there is a chrome extension called ‘Netflix Multi. Subtitles’ that will allow two sets of subtitles in different languages simultaneously 
-Any Music Streaming Service	Listen to music in your target language
-Any Podcast App	Listening to Podcasts in target language
-Anki	Active Recall Testing and Spaced Repetition (aka Memorization)
-Any Website that Explains CEFR levels (Wikipedia is fine)	CEFR is an internationally recognized guideline for learners of foreign languages. Important to know for evaluating yourself but also to explain to others how well you speak. 
-Any website that explains basic linguistics (e.g. Adverbs, Phonemes, Clauses) (Wikipedia is fine)	Understand how languages are structured, useful for teaching and learning 
-LingQ	Read stories in your target language 
-VPN	You’ll need it to access websites that have free tv shows or movies that might be geolocked, for example puhutv.com in Turkey
+| Website/App/Purpose/App        | Purpose           |
+| -------------------------------|:-------------:|
+| ReversoContexto (Very important)                     | Context for Vocabulary  | 
+| Wordreference (Or any of your choosing)                       | Online Dictionary      |  
+| Cooljugator (Or any of your choosing)                  | Verb Conjugation      |
+| Google Translate                  | General Translation      |
+| Conversation Exchange                   | Language Partners      |
+| Meetup                  | Local language exchange events      |
+| Whatsapp(varies by target language)                  | Communication with people around the world      |
+| YouTube                  | Watch videos in the target language      |
+| Netflix^                  | are neat      |
+| Any Music Streaming Service                  | Listen to music in your target language      |
+| Any Podcast App                  | Listening to Podcasts in target language      |
+| Anki                 | Active Recall Testing and Spaced Repetition (aka Efficient memorization)      |
+| Any Website that Explains CEFR levels (Wikipedia is fine)                 | CEFR is an internationally recognized guideline for learners of foreign languages. Important to know for evaluating yourself but also to explain to others how well you speak.      |
+| Any website that explains basic linguistics (e.g. Adverbs, Phonemes, Clauses) (Wikipedia is fine)                 | Understand how languages are structured, useful for teaching and learning       |
+| LingQ                 | Read stories in your target language       |
+| Any VPN                 | You’ll need it to access websites that have free tv shows or movies that might be geolocked, for example puhutv.com in Turkey      |
+
+ ^Note: there is a chrome extension called ‘Netflix Multi. Subtitles’ that will allow two sets of subtitles in different languages simultaneously 
 
 2. How to avoid the Foreigner Speak Trap: https://www.youtube.com/watch?v=dhFqV2P9Mo0. This video is very important to understand so that you don’t learn a watered down version of a language. 
 
