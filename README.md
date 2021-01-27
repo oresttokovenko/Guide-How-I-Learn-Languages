@@ -96,27 +96,27 @@ Guide made by Orest Tokovenko
 
 ## **References**
 
-Ref. 1
+#### Ref. 1
 ￼
-Ref. 2
+#### Ref. 2
 ￼
-Ref. 3
+#### Ref. 3
 
-Ref. 4
+#### Ref. 4
 
-Ref. 5
+#### Ref. 5
 ￼
-Ref. 6
+#### Ref. 6
 
-Ref. 7
+#### Ref. 7
 
 <img src="https://user-images.githubusercontent.com/51058259/106032045-31609300-608d-11eb-92cf-bf8fc5c7461d.PNG" width="350" height="700">
 
-Ref. 8
+#### Ref. 8
 
 <img src="https://user-images.githubusercontent.com/51058259/106032049-345b8380-608d-11eb-900f-6b22dfb0a65e.PNG" width="350" height="700">
 
-Ref. 9
+#### Ref. 9
 
 ![arabic jpg](https://user-images.githubusercontent.com/51058259/106032833-34a84e80-608e-11eb-92c9-318d500684d6.png)
 
@@ -126,5 +126,5 @@ Ref. 9
 
 <img width="505" alt="Screen Shot 2021-01-27 at 11 04 55 AM" src="https://user-images.githubusercontent.com/51058259/106033916-7eddff80-608f-11eb-94d0-4e5bed1a03c3.png">
 
-
+#### Ref. 10
 
