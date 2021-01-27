@@ -4,7 +4,7 @@ Many people ask me how I learned my languages, so I decided to codify it here. M
 
 1. Bookmark and use the following websites: If any of these don’t support your target language (i.g. Wordreference doesn’t translate English > Indonesian, or Netflix doesn’t have Swahili movies) another website can used, the websites below are simply reliable and effective websites that I personally use, however, it’s the purpose that needs to be filled in order to effectively learn a language. 
 
-| Website/App/Purpose/App        | Purpose           |
+| Website/Purpose/App        | Purpose           |
 | -------------------------------|:-------------:|
 | ReversoContexto (Very important)                     | Context for Vocabulary  | 
 | Wordreference (Or any of your choosing)                       | Online Dictionary      |  
