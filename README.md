@@ -7,26 +7,31 @@ Bookmark and use the following websites/apps. If any of these don’t support yo
 
 | Website/App        | Purpose           |
 | -------------------------------|:-------------:|
-| ReversoContexto (Very important)                     | Translation & Context for Vocabulary  | 
-| Wordreference (Or any of your choosing)                       | Online Dictionary      |  
-| Cooljugator (Or any of your choosing)                  | Verb Conjugation      |
-| Google Translate                  | General Translation      |
-| Conversation Exchange                   | Language Partners      |
-| Meetup                  | Local language exchange events      |
+| context.reverso.net/translation/ (Very important)                     | Translation & Context for Vocabulary  | 
+| wordreference.com                     | Online Dictionary      |  
+| cooljugator.com                 | Verb Conjugation      |
+| translate.google.com                  | General Translation      |
+| conversationexchange.com                   | Language Partners      |
+| meetup.com                  | Local language exchange events      |
 | Whatsapp (varies by target language)                  | Communication with people around the world      |
 | YouTube                  | Watch videos in the target language      |
 | Netflix^                  | Watch movies and tv shows in the target language with Subtitles      |
 | Any Music Streaming Service                  | Listen to music in your target language      |
 | Any Podcast App                  | Listening to Podcasts in target language      |
-| Anki                 | Active Recall Testing and Spaced Repetition (aka Efficient memorization)      |
+| apps.ankiweb.net                 | Active Recall Testing and Spaced Repetition (aka Efficient memorization)      |
+| ankiweb.net/shared/decks/                 | Decks for Anki. Just search for your target language and import the deck file      |
 | Any Website that Explains CEFR levels (Wikipedia is fine)                 | CEFR is an internationally recognized guideline for learners of foreign languages. Important to know for evaluating yourself but also to explain to others how well you speak.      |
 | Any website that explains basic linguistics (e.g. Adverbs, Phonemes, Clauses) (Wikipedia is fine)                 | Understand how languages are structured, useful for teaching and learning       |
-| LingQ                 | Read stories in your target language       |
-| Any VPN                 | You’ll need it to access websites that have free tv shows or movies that might be geolocked, for example puhutv.com in Turkey      |
-| (Turkish Specific) Tureng                 | Translation & Context for Vocabulary       |
-| (Russian specific) Openrussian                 | Translation & Context for Vocabulary       |
+| lingq.com/en/                 | Read stories in your target language       |
+| Any VPN(I use PureVPN personally)                 | You’ll need it to access websites that have free tv shows or movies that might be geolocked, for example puhutv.com in Turkey      |
+| (Turkish Specific) tureng.com/en/turkish-english                 | Translation & Context for Vocabulary       |
+| (Russian specific) en.openrussian.org                | Translation & Context for Vocabulary       |
 | (Mandarin Specific) Pleco(iOS only, can be sideloaded on M1 Macs)                 | Translation & Context for Vocabulary       |
-| (Ukrainian Specific) Glosbe                 | Translation & Context for Vocabulary       |
+| (Ukrainian Specific) en.glosbe.com/uk/en                | Translation & Context for Vocabulary       |
+| (Portuguese Specific) conjugacao.com.br                 | Conjugate Portuguese Verbs       |
+| (Arabic Specific) industryarabic.com/arabic-dialects/                 | Understanding Diglossia in Arabic       |
+| (Arabic Specific) arabic.desert-sky.net/faq.html                 | Understanding Arabic in General       |
+
 
  ^Note: there is a chrome extension called ‘Netflix Multi. Subtitles’ that will allow two sets of subtitles in different languages simultaneously 
 
