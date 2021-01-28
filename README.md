@@ -2,8 +2,8 @@
 Often people I meet ask me how I learned my languages. I am not trying to sound cocky, I am just genuinely tired of explaning it so I decided to codify it here. Many people learn languages for different reasons and thus their methods may vary. When I learn a language, my goal is to sound **native-like (slang, expressions), speak with fluency(aka. no stuttering, I aim for a B2 level), and with natural pronuncation from one target dialect group(ex. I speak 'Andean' Spanish, and Brazilian Portuguese from Minas Gerais/Bahia). Ultimately, my goal is to be mistaken for a native speaker of a country. This rarely comes to fruition, but the goal needs to be stated** . As a result, my method reflects these goals. There is nothing wrong with having different language goals, however keep this in mind when reading my guide. 
 
 
-## **Bookmark and use the following websites:** 
-If any of these don’t support your target language (i.g. Wordreference doesn’t translate English > Indonesian, or Netflix doesn’t have Swahili movies) another website can used, the websites below are simply reliable and effective websites that I personally use, however, it’s the purpose that needs to be filled in order to effectively learn a language. 
+## **Resources:** 
+Bookmark and use the following websites. If any of these don’t support your target language (i.g. Wordreference doesn’t translate English > Indonesian, or Netflix doesn’t have Swahili movies) another website can used, the websites below are simply reliable and effective websites that I personally use, however, it’s the purpose that needs to be filled in order to effectively learn a language. 
 
 | Website/Purpose/App        | Purpose           |
 | -------------------------------|:-------------:|
