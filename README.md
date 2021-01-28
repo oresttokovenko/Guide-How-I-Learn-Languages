@@ -7,7 +7,7 @@ Bookmark and use the following websites/apps. If any of these don’t support yo
 
 | Website/App        | Purpose           |
 | -------------------------------|:-------------:|
-| ReversoContexto (Very important)                     | Context for Vocabulary  | 
+| ReversoContexto (Very important)                     | Translation & Context for Vocabulary  | 
 | Wordreference (Or any of your choosing)                       | Online Dictionary      |  
 | Cooljugator (Or any of your choosing)                  | Verb Conjugation      |
 | Google Translate                  | General Translation      |
@@ -23,6 +23,10 @@ Bookmark and use the following websites/apps. If any of these don’t support yo
 | Any website that explains basic linguistics (e.g. Adverbs, Phonemes, Clauses) (Wikipedia is fine)                 | Understand how languages are structured, useful for teaching and learning       |
 | LingQ                 | Read stories in your target language       |
 | Any VPN                 | You’ll need it to access websites that have free tv shows or movies that might be geolocked, for example puhutv.com in Turkey      |
+| (Turkish Specific) Tureng                 | Read stories in your target language       |
+| (Russian specific) Openrussian                 | Read stories in your target language       |
+| (Mandarin Specific) Pleco(iOS only, can be sideloaded on M1 Macs)                 | Translation & Context for Vocabulary       |
+| (Ukrainian Specific) Glosbe                 | Translation & Context for Vocabulary       |
 
  ^Note: there is a chrome extension called ‘Netflix Multi. Subtitles’ that will allow two sets of subtitles in different languages simultaneously 
 
