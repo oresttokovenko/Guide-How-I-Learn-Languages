@@ -62,7 +62,7 @@ Speaking with native speakers is the single most effective way to learn a langua
 
 ### Online
 
-Be sure to utilize audio messages when speaking using an Instant Messaging app for a more natural conversation. you should speak with your partner daily on instant messaging apps and video chat them once a week for an hour. It might look something like this: You practice your language an hour a day via instant messaging, and video chat once a week.
+Be sure to utilize audio messages when speaking using an Instant Messaging app for a more natural conversation. you should speak with your partner daily on instant messaging apps and video chat them once a week for an hour. It might look something like this: You practice your language an hour a day via instant messaging<sup>10</sup>, and video chat once a week.
 
 ### In Person
 
@@ -179,7 +179,7 @@ Everyone is different, and this guide might or might not work for you, the impor
 
 #### Ref. 10
 
-(placeholder)
+![IMG_8417](https://user-images.githubusercontent.com/51058259/106325380-f64e9300-6237-11eb-9935-33bdc9f38101.PNG)
 
 #### Ref. 11
 
