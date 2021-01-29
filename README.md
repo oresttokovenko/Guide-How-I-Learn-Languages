@@ -179,7 +179,7 @@ Everyone is different, and this guide might or might not work for you, the impor
 
 #### Ref. 10
 
-![IMG_8417](https://user-images.githubusercontent.com/51058259/106325380-f64e9300-6237-11eb-9935-33bdc9f38101.PNG)
+<img src="https://user-images.githubusercontent.com/51058259/106325380-f64e9300-6237-11eb-9935-33bdc9f38101.PNG" width="350" height="700">
 
 #### Ref. 11
 
